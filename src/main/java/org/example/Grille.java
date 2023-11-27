@@ -1,7 +1,7 @@
 package org.example;
 
 public class Grille {
-    private final Integer grille =10;
+    private final Integer grille =100;
 
 
     public Integer grillex() {
