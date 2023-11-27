@@ -1,0 +1,36 @@
+
+q
+java:S1192"[Define a constant instead of duplicating this literal "Vous ne pouvez pas avancer" 4 times.(—çÖ
+q
+java:S1192+"[Define a constant instead of duplicating this literal "Vous ne pouvez pas reculer" 4 times.(³ì¼˜
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(óöÌèıÿÿÿÿ
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(˜ƒı
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(šûÁ
+Q
+java:S4973*"<Strings and Boxed types should be compared using "equals()".(š¡+
+R
+java:S4973."<Strings and Boxed types should be compared using "equals()".(Ş•­Ä
+_
+java:S3973""IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ
+_
+java:S39732"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Çµí‘
+E	java:S106"+Replace this use of System.out by a logger.(µÒèŠøÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(°ÿêt
+<	java:S131""Add a default case to this switch.(¸ìù«üÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(—çÖ
+@	java:S106"+Replace this use of System.out by a logger.(—çÖ
+@	java:S106"+Replace this use of System.out by a logger.(—çÖ
+@	java:S106!"+Replace this use of System.out by a logger.(—çÖ
+@	java:S106+"+Replace this use of System.out by a logger.(³ì¼˜
+@	java:S106-"+Replace this use of System.out by a logger.(³ì¼˜
+@	java:S106/"+Replace this use of System.out by a logger.(³ì¼˜
+@	java:S1061"+Replace this use of System.out by a logger.(³ì¼˜
+2
+java:S62055"Remove this redundant block.(ÕĞäø
+2
+java:S62058"Remove this redundant block.(©Æê×
